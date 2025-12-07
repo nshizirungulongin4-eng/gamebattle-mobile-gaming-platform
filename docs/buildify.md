@@ -22,9 +22,9 @@
 - [x] Build home page with game selection
 - [x] Create authentication pages (Login/Signup)
 - [x] Add placeholder pages for Dashboard, Wallet, Matches, Profile, Admin
-- [ ] Link to Supabase for backend
+- [x] Link to Supabase for backend
 - [ ] Implement user authentication with Supabase Auth
-- [ ] Create database schema (users, matches, transactions, wallets)
+- [x] Create database schema (users, matches, transactions, wallets)
 - [ ] Build wallet deposit/withdraw functionality
 - [ ] Implement match creation and invitation system
 - [ ] Add real-time match updates
