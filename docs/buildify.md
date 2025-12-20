@@ -29,6 +29,6 @@
 - [ ] Implement match creation and invitation system
 - [ ] Add real-time match updates
 - [ ] Integrate mobile money payment APIs
-- [ ] Build admin dashboard with analytics
+- [x] Build admin dashboard with analytics
 - [ ] Add notification system
 - [ ] Implement stake handling and automatic payouts
