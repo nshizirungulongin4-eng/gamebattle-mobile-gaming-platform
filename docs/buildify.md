@@ -3,7 +3,7 @@
 - Mobile gaming platform where players can compete against friends
 - Support for 4 game types: Football, Racing, Fighting, Boxing
 - User authentication (signup/login)
-- Wallet system with MTN & Airtel mobile money integration
+- Wallet system with multiple payment methods: MTN Mobile Money, Airtel Money, Crypto, PayPal, Payoneer, Bank Account
 - Match creation with stake amounts
 - Automatic prize distribution to winners (90% to winner, 10% platform fee)
 - Real-time notifications
@@ -25,7 +25,7 @@
 - [ ] Link to Supabase for backend
 - [ ] Implement user authentication with Supabase Auth
 - [ ] Create database schema (users, matches, transactions, wallets)
-- [ ] Build wallet deposit/withdraw functionality
+- [x] Build wallet deposit/withdraw functionality
 - [ ] Implement match creation and invitation system
 - [ ] Add real-time match updates
 - [ ] Integrate mobile money payment APIs
